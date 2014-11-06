@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- L'idioma per defecte la l'aplicació es l'àngles -->
+    
+    <!-- Títols -->
+    <string name="app_name">Tinytwit</string>
+    <string name="tweet">Tweet</string>
+
+    <!-- UI -->
+    <string name="connectar">Login</string>
+    <string name="desconnectar">Logout</string>
+    <string name="refrescar">Refresh</string>
+    <string name="publicar">Publish</string>
+    <string name="enviar">Tweet!</string>
+    <string name="cancel">Cancel</string>
+    <string name="default_count">0</string>
+
+    <!-- Hits -->
+    <string name="content">Tweet content</string>
+
+    <!-- Missatges informatius -->
+    <string name="feed_actualitzat">Feed updated</string>
+    <string name="tweet_enviat">Tweet sent successfully</string>
+
+    <!-- Missatges d'error -->
+    <string name="error_twitter_exception">TwitterException found</string>
+    <string name="error_connexio">Connection error, check your connection</string>
+    <string name="error_publicar">Failed to publish tweet</string>
+    <string name="tweet_not_found">Tweet not found</string>
+    <string name="error_db">Database Error</string>
+    <string name="error_create_url">Error creating URL</string>
+    <string name="error_create_date">Error creating date</string>
+    <string name="error_create_tweet">Error creating tweet</string>
+    <string name="error_authentication">Error, you aren\'t authenticated</string>
+    <string name="error_mida_tweet">Error! A tweet message must have between 1 and 140 characters</string>
+
+</resources>
